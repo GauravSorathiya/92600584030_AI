@@ -1,3 +1,6 @@
+# Enrollment Number  : 92600584030
+# Student Name       : GAURAV SURESHBHAI SORATHIYA
+
 # No two queens can be in the same row.
 # No two queens can be in the same colums.
 # No two queens can be in the same diagonal.
