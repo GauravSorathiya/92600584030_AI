@@ -1,7 +1,10 @@
+# Enrollment Number  : 92600584030
+# Student Name       : GAURAV SURESHBHAI SORATHIYA
+
 #Goal state 
 goal  = (1,2,3,
          4,5,6,
-	 7,8,0)
+	     7,8,0)
 		
 # Fuction to print the puzzle
 def print_board(state):
