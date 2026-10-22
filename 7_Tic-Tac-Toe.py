@@ -1,3 +1,6 @@
+# Enrollment Number  : 92600584030
+# Student Name       : GAURAV SURESHBHAI SORATHIYA
+
 # Two Player Game - Tic-Tac-Toe
 # Using Heuristic Function
 
