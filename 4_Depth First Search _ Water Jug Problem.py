@@ -1,3 +1,6 @@
+# Enrollment Number  : 92600584030
+# Student Name       : GAURAV SURESHBHAI SORATHIYA
+
 # Capacities of the two jugs
 CAP_A = 4
 CAP_B = 3
